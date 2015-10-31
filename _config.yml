@@ -1,0 +1,23 @@
+name: bkyzen
+favicon: null
+layout_spectrum: 0.43017023196443915
+typography_spectrum: 0.24601659877225757
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4575203354470432
+  lightness: 0.724499027011916
+  saturation: 0.5567401556763798
+  rhythmicContrast: 0.590269383508712
+purpose: []
